@@ -1,1 +1,1 @@
-staking-ray.surge.sh
+http://staking-ray.surge.sh
